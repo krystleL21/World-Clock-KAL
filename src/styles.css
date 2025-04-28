@@ -5,7 +5,6 @@ body {
 }
 h1 {
     text-align:center;
-
 }
 h2 {
     margin: 0 0 5px;
@@ -42,7 +41,6 @@ select {
 .city:last-child {
     border: none;
 }
-
 
 .date {
     opacity: 0.7;
